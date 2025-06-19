@@ -1,0 +1,6 @@
+ID,firstName,lastName,fullName,email,phoneNumber,dateOfBirth,gender,address,street,landMark,city,postalCode,country_code
+e7b2c9ae-d05f-11ee-b5f0-3b659e1e6ab0,Vaibhav,Wanjale,Vaibhav Wanjale,vaibhav.wanjale@example.com,9876543210,1992-10-20,Male,"101 Green Valley, Near Tech Park","Green Valley Road","Opp Tech Park",Pune,411057,IN
+fbc16c68-d05f-11ee-b5f0-3b659e1e6ab0,Sneha,Sharma,Sneha Sharma,sneha.sharma@example.com,9823456781,1995-07-10,Female,"22 Orchid Society, MG Road","MG Road","Next to Super Mall",Mumbai,400001,IN
+18dc10d8-d060-11ee-b5f0-3b659e1e6ab0,Arjun,Mehta,Arjun Mehta,arjun.mehta@example.com,9812345678,1990-12-05,Male,"B-55 Skyline Residency","SKY Ave","Near School",Delhi,110001,IN
+2152fd42-d060-11ee-b5f0-3b659e1e6ab0,Nisha,Verma,Nisha Verma,nisha.verma@example.com,9832109876,1994-03-21,Female,"Flat 303, Dream Homes","Hill Street","Near Hospital",Hyderabad,500081,IN
+2c3fc62e-d060-11ee-b5f0-3b659e1e6ab0,Ravi,Kumar,Ravi Kumar,ravi.kumar@example.com,9799988776,1991-09-13,Male,"402 Sunrise Tower","Sunrise Lane","Opposite Metro",Chennai,600001,IN

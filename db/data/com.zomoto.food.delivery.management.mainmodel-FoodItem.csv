@@ -1,0 +1,7 @@
+ID,quantity,unitOfMeasure,unitPrice,discount,totalPrice,currency_code,toOrder_ID,foodCatagory,toHotel_ID
+d4e4f4d2-23f4-4b3e-97fd-7a1e8ef12e22,2,Plate,25.00,5.00,45.00,AED,ORD1001,V,0f72c830-3b2c-4d61-b5cb-9d8fa25d4501
+f3f8aa2d-4b75-4e3c-a7ff-b0db98b0f4a1,1,Bowl,18.00,0.00,18.00,AED,ORD1002,V,1a38d553-6e62-4e1e-aef2-f6f5c998dff3
+a8721a0d-1083-4d1c-81b3-d1c7e86f1161,3,Piece,10.00,3.00,27.00,AED,ORD1003,B,2f4dc879-9c32-44e8-bb30-3db0f7f37a5a
+b6fa9b17-f276-47a1-8401-8c3c8b5e33ec,2,Plate,22.00,2.00,42.00,AED,ORD1004,N,3481cc82-d7ab-42fd-9002-918b1b168c79
+ea9200a5-66c2-4568-9df9-3f3725f69e6d,1,Grill,45.00,5.00,40.00,AED,ORD1005,N,4b25e0ea-efc7-46c7-9b6c-18f438b246b7
+c0fc1cd3-4a92-4293-a26f-e4aaeb8bd749,5,Piece,8.00,0.00,40.00,AED,ORD1006,V,0f72c830-3b2c-4d61-b5cb-9d8fa25d4501

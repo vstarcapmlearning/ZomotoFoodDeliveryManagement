@@ -1,0 +1,6 @@
+ID,deliveryBoyID,firstName,lastName,email,phoneNumber,isAvailable
+15b6f8c1-07d1-4ef2-b472-1151294a2e03,DB1001,Ravi,Patil,ravi.patil@example.com,971502345678,true
+a7c2d73e-57f3-4e87-8d25-1f6c5ed8a9b9,DB1002,Ankit,Mehta,ankit.mehta@example.com,971509876543,true
+60e0d9f1-289b-41e4-bb53-fbd5b9910e0c,DB1003,Divya,Rao,divya.rao@example.com,971581223344,false
+b965f84f-59aa-4d46-8aef-4a9a9c8c92fb,DB1004,Sahil,Khan,sahil.khan@example.com,971525667788,true
+d8308c0d-3200-4c7c-9a18-6a9fd91d6a9d,DB1005,Priya,Nair,priya.nair@example.com,971564445566,false

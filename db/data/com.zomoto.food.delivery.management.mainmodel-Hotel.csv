@@ -1,0 +1,6 @@
+ID,hotelName,email,phoneNumber,address,city,postalCode,country_code,website,starRating,IsActive,foodCatagory
+0f72c830-3b2c-4d61-b5cb-9d8fa25d4501,Sunrise Grand,sunrise.grand@example.com,971522345678,"123 Beach Road, Marina",Dubai,00000,AE,https://sunrisegrand.ae,5,true,B
+1a38d553-6e62-4e1e-aef2-f6f5c998dff3,Green Oasis Hotel,greenoasis@example.com,971509876543,"45 Palm Avenue, Al Barsha",Dubai,12345,AE,https://greenoasis.ae,4,true,V
+2f4dc879-9c32-44e8-bb30-3db0f7f37a5a,Desert Pearl Hotel,desert.pearl@example.com,971555121314,"79 Desert Blvd, Business Bay",Abu Dhabi,54321,AE,https://desertpearl.ae,4,false,N
+3481cc82-d7ab-42fd-9002-918b1b168c79,The Skyline Stay,skyline@example.com,971528888888,"12 Tower Street, Downtown",Dubai,11223,AE,https://theskyline.ae,3,true,B
+4b25e0ea-efc7-46c7-9b6c-18f438b246b7,Crescent Resort,crescent.resort@example.com,971566677889,"88 Lagoon Drive, Palm Jumeirah",Dubai,33445,AE,https://crescentresort.ae,5,true,N
